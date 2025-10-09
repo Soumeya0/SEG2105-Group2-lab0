@@ -1,0 +1,9 @@
+public enum ClientCategory {
+	MINOR,
+	STUDENT,
+	ADULT,
+	INVESTOR,
+	SMALL_BUISNESS,
+	LARGE_BUISNESS,
+	OTHER_BANK_CLIENTS,
+}
